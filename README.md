@@ -2,11 +2,13 @@
 #### I solve problems
 ... one line of **`code`** at a time -->
 
-<div width="100%">
-  <a href="https://github.com/dewslyse/github-readme-stats"><img alt="Selase's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dewslyse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-  <a href="https://github.com/dewslyse/github-readme-stats"><img alt="Selase's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewslyse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</div>
+<a href='https://github.com/dewslyse'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api?username=dewslyse&show_icons=true&count_private=true&theme=dark' alt="GitHub Stats">
+</a>
+
+<a href='https://github.com/dewslyse'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api/top-langs/?username=dewslyse&langs_count=8&count_private=true&layout=compact&theme=dark' alt="Top Languages">
+</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/dewslyse)  
